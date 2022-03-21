@@ -7,6 +7,8 @@ public class A_BlokDanKomentar {
         Contoh komentar lebih dari satu baris
         */
 
+        //percobaan 1
+
         /**
          * Java Doc --> baris ini untuk mendokemntasikan kode program
          */
