@@ -8,7 +8,6 @@ public class L_cobaUnicode {
         System.out.println("a: " + b);
         System.out.println("a: " + c);
         System.out.println("kata: " + kata);
-
         }
     }
 
